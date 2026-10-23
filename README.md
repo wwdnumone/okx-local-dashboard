@@ -6,6 +6,26 @@
 
 本项目为社区工具，非 OKX 官方产品。页面可直接在本地打开，实际数据请求需要联网，能否读取接口取决于网络、账户地区及 OKX 的跨域策略。
 
+## 界面预览
+
+以下截图来自演示模式，其中的账户、金额和交易记录均为虚构数据。
+
+**成交明细**
+
+![成交明细](screenshots/dashboard-fills.png)
+
+**历史订单**
+
+![历史订单](screenshots/dashboard-orders.png)
+
+**当前持仓**
+
+![当前持仓](screenshots/dashboard-positions.png)
+
+**账户资产**
+
+![账户资产](screenshots/dashboard-balance.png)
+
 ## 功能
 
 | 功能 | 说明 |
