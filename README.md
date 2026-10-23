@@ -32,7 +32,7 @@
 4. 在左侧填写 **API Key、Secret Key、Passphrase**，选择正确的地区域名和实盘 / 模拟盘环境。
 5. 点击 **验证连接**，再选择标签页、筛选条件并点击 **查询数据**。
 
-完整操作说明见 [使用教程](docs/USAGE.md)，首次发布 GitHub 的步骤见 [发布指南](docs/PUBLISHING.md)。
+完整操作说明见 [使用教程](docs/USAGE.md)。
 
 > GitHub 的 HTML 文件预览展示的是源代码。请先下载并解压，再打开本地 `index.html`。
 
