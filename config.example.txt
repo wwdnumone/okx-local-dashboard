@@ -1,0 +1,6 @@
+apikey = ""
+secretkey = ""
+passphrase = ""
+IP = ""
+备注名 = "交易数据"
+权限 = "读取"

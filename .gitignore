@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.local.*
+credentials*.json
+secrets*.json
+config.private.*
+config.txt
+OKX_*.csv
+OKX_*.json
+private/
+work/
+node_modules/
